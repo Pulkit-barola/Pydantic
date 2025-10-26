@@ -1,5 +1,4 @@
-
-
+Note :- desktop.tutorial is empty file
 This repository contains a collection of practical examples for data validation in Python.
 
 ## 🔍 What’s inside
